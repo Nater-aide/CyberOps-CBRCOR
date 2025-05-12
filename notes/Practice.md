@@ -9,7 +9,7 @@ What protocol is used to integrate Cisco Firepower NGFW with a SIEM such as Splu
 Squid is an example of which type of security device?
 - firewall
 - email proxy
-- web proxy
+- **web proxy**
 - IPS
 - DNS proxy
 
