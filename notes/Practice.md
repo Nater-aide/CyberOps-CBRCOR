@@ -12,3 +12,56 @@ Squid is an example of which type of security device?
 - web proxy
 - IPS
 - DNS proxy
+
+Which three rule actions are not available when running Snort in IDS mode? (Choose three.)
+- drop
+- alert
+- sdrop
+- log
+- reject
+- pass
+
+What can cause well-tuned and defined detection rules to produce unexpected results?
+- The rules are too complex.
+- The rules do not match the assets in the environment.
+- Too many similar detection rules are applied on different detection tools in the network and endpoints.
+- Automations are needed to weed out false positive detections.
+
+Match the CTI sensitivity level Traffic Light Protocol (TLP) colors to their designation.
+- restricted to participants only
+- restricted to participants' organizations
+- restricted to community
+- unlimited disclosures
+
+What is a key feature of a cyber TIP?
+- **Collect and analyze data from multiple cyber threat intelligent feeds.**
+- Provide a first line of defense.
+- Classify security intelligence objects.
+- Provide custom security intelligence feeds.
+
+Which remote log data collection method allows a log collector to quickly detect that the remote system failed or log data dropped?
+- client/server-based
+- centralized
+- push
+- pull
+
+Why should you measure and report the time that is required to complete the different phases of an investigation?
+- to decrease the time to remediate the incident
+- to determine the dwell time and measure the SOC's efficiency
+- to comply with the security policy
+- to find the most time-consuming tasks and optimize them
+
+What are three pieces of information that must be included in alert rule documentation? (Choose three.)
+- how to identify relevant data and collect it
+- a complete list of false positives
+- a brief explanation of the attack technique, the stage in which it was used, and why
+- an example of a true positive alert and supporting context
+- all the compromised assets
+- the amount of time spent on analysis of log data
+
+Static malware analysis detection tools mainly use which two methods to determine if a file is malicious or benign? (Choose two.)
+- the file's metadata
+- sandbox to execute the file to determine its behaviors
+- compress (pack) the file to de-obfuscate it
+- forensic indicators about the file
+
