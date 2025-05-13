@@ -86,3 +86,21 @@ To detect malicious encrypted traffic flows, which Cisco feature requires minima
 - IPS
 - AMP
 
+What do SOC analysts need the most to best understand the processes, detection tools, and configurations that match current threats and analysis scenarios?
+- education and training
+- experts who know the detection tools
+- **effective playbooks or workflows**
+- regular meetings with networking and IT teams
+
+What should the security tuning governance process be aligned to?
+- SIEM and SOAR machine learning and automation capabilities
+- threat detection tools development lifecycle
+- the job functions within the SOC
+- security policy
+- incident response plan
+
+Which type of detection requires the most root cause analysis with outside input and research?
+- false positive
+- false negative
+- **true positive**
+- true negative
