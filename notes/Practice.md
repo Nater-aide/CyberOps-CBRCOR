@@ -65,3 +65,24 @@ Static malware analysis detection tools mainly use which two methods to determin
 - compress (pack) the file to de-obfuscate it
 - forensic indicators about the file
 
+Examining the logs from an Identity Access Management system, such as Cisco ISE, what four pieces of information are crucial to the SOC analyst? (Choose four.)
+- which user has logged into a particular host
+- what operating system a particular host is running
+- what device the user used to access a particular host
+- whether or not a particular host has the required security posture (antivirus, firewall, and so on)
+- where a particular host has made network connections to
+- what processes are running on a particular host
+
+Packet Information can be displayed along with which type of Cisco Firepower NGFW events?
+- file events
+- malware events
+- connection events
+- firewall events
+- IPS events
+
+To detect malicious encrypted traffic flows, which Cisco feature requires minimal resources and a large deployment to detect malicious encrypted traffic flows?
+- SSL Decryption (hardware or software)
+- Encrypted Traffic Analytics
+- IPS
+- AMP
+
