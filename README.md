@@ -4,6 +4,8 @@
 [Network Traffic Analysis](https://github.com/Nater-aide/CBOR/blob/main/notes/nettrafficanalysis.md)  
 [Cisco AMP](https://github.com/Nater-aide/CyberOps-CBRCOR/blob/main/notes/Amp.md)  
 [Cisco WSA](https://github.com/Nater-aide/CyberOps-CBRCOR/blob/main/notes/WSA.md)  
+[Cisco Umbrella](https://github.com/Nater-aide/CyberOps-CBRCOR/blob/main/notes/umbrella.md)  
+[Cisco EPA](https://github.com/Nater-aide/CyberOps-CBRCOR/blob/main/notes/epa.md)  
 
 
 
