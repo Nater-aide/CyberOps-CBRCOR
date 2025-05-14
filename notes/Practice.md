@@ -1,7 +1,7 @@
 # Practice questions
 What protocol is used to integrate Cisco Firepower NGFW with a SIEM such as Splunk?
-- **PxGrid**
-- eStreamer
+- PxGrid
+- **eStreamer**
 - REST API
 - RESTCONF
 - Security Service Exchange (SSE)
