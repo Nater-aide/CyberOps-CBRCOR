@@ -104,3 +104,21 @@ Which type of detection requires the most root cause analysis with outside input
 - false negative
 - **true positive**
 - true negative
+
+Dynamic malware analysis detection tools mainly use which method to determine if a file is malicious or benign?
+- the file's metadata
+- **sandbox to execute the file to determine its behaviors**
+- compress (pack) the file to de-obfuscate it
+- forensic indicators about the file
+
+If the malicious ObliqueRAT is not detected using an antivirus program at the endpoint, what can Snort IPS, a network-based detection tool, use to detect it?
+- **Snort rules detect the ObliqueRAT outbound connection attempts.**
+- Snort rules detect the malicious ObliqueRAT hash.
+- Snort rules detect the ObliqueRAT lateral movement attempts.
+- Snort rules detect the ObliqueRAT privilege escalation attempts.
+
+What is the file’s magic number?
+- **the first part of a file to uniquely identify the type of file**
+- the hash value of the file
+- a reference to the file’s mutex
+- the file’s fingerprint
