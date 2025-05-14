@@ -101,8 +101,8 @@ What should the security tuning governance process be aligned to?
 
 Which type of detection requires the most root cause analysis with outside input and research?
 - false positive
-- false negative
-- **true positive**
+- **false negative**
+- true positive
 - true negative
 
 Dynamic malware analysis detection tools mainly use which method to determine if a file is malicious or benign?
