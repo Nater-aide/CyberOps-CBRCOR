@@ -78,7 +78,7 @@ Packet Information can be displayed along with which type of Cisco Firepower NGF
 - malware events
 - connection events
 - firewall events
-- IPS events
+- **IPS events**
 
 To detect malicious encrypted traffic flows, which Cisco feature requires minimal resources and a large deployment to detect malicious encrypted traffic flows?
 - SSL Decryption (hardware or software)
