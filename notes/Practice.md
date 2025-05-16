@@ -60,10 +60,10 @@ What are three pieces of information that must be included in alert rule documen
 - the amount of time spent on analysis of log data
 
 Static malware analysis detection tools mainly use which two methods to determine if a file is malicious or benign? (Choose two.)
-- the file's metadata
+- **the file's metadata**
 - sandbox to execute the file to determine its behaviors
 - compress (pack) the file to de-obfuscate it
-- forensic indicators about the file
+- **forensic indicators about the file**
 
 Examining the logs from an Identity Access Management system, such as Cisco ISE, what four pieces of information are crucial to the SOC analyst? (Choose four.)
 - which user has logged into a particular host
