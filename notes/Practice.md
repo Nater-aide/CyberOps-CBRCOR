@@ -122,3 +122,16 @@ What is the file’s magic number?
 - the hash value of the file
 - a reference to the file’s mutex
 - the file’s fingerprint
+
+Which is not part of the Cisco Threat Grid report of a submitted sample, but warrants extra attention during an investigation?
+- flagged artifacts
+- domains (DNS requests)
+- domains (HTTP requests)
+- **domains (blocked requests)**
+- downloaded files
+
+Which Snort component is used to bring data into the Snort 3.0 platform?
+- line engine
+- pre-processors
+- dispatcher
+- **data acquisition modules (DAQs)**
