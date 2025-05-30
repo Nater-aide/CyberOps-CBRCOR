@@ -6,7 +6,7 @@
 [Cisco WSA](https://github.com/Nater-aide/CyberOps-CBRCOR/blob/main/notes/WSA.md)  
 [Cisco Umbrella](https://github.com/Nater-aide/CyberOps-CBRCOR/blob/main/notes/umbrella.md)  
 [Cisco EPA](https://github.com/Nater-aide/CyberOps-CBRCOR/blob/main/notes/epa.md)  
-
+[CTI Lifecycle](https://github.com/Nater-aide/CyberOps-CBRCOR/blob/main/notes/CTIlifecycle.md)
 
 
 [Practice Questions](https://github.com/Nater-aide/CyberOps-CBRCOR/blob/main/notes/Practice.md)  
